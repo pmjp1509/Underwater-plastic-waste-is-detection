@@ -1,0 +1,9 @@
+ultralytics
+streamlit
+pillow
+opencv-python-headless
+numpy
+pandas
+pyyaml
+tqdm
+matplotlib
