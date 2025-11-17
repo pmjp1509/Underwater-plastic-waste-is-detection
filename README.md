@@ -137,11 +137,8 @@ Detections Found
 ```
 AI_PROJECT/
 ├── app.py                           # Streamlit web application
-├── project.py                       # Training and evaluation scripts (Colab)
 ├── Project.ipynb                    # Jupyter notebook (Colab version)
 ├── requirements.txt                 # Python dependencies
-├── README_PROJECT.md                # This file
-├── APPLICATIONS_AND_SCOPE.md        # Detailed use cases & future scope
 ├── nano_best.pt                     # YOLOv8 Nano trained model
 ├── medium_best.pt                   # YOLOv8 Medium trained model
 ├── large_best.pt                    # YOLOv8 Large trained model
